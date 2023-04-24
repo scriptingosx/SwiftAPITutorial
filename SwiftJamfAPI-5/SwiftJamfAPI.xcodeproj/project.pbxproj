@@ -52,7 +52,7 @@
 		C6A3346F294A227600FA22CD /* JamfList.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JamfList.entitlements; sourceTree = "<group>"; };
 		C6A33471294A227600FA22CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C6A33476294B46BE00FA22CD /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
-		C6A33478294B4CB300FA22CD /* Computer-Sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Computer-Sample.swift"; path = "../SwiftJamfAPI working/Computer-Sample.swift"; sourceTree = "<group>"; };
+		C6A33478294B4CB300FA22CD /* Computer-Sample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Computer-Sample.swift"; sourceTree = "<group>"; };
 		C6C845302913CC1A00AF407A /* Keychain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keychain.swift; sourceTree = "<group>"; };
 		C6F53D7528C6295600E0B11F /* jamf_list */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = jamf_list; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6F53D7F28C629D300E0B11F /* JamfList.swift */ = {isa = PBXFileReference; indentWidth = 2; lastKnownFileType = sourcecode.swift; path = JamfList.swift; sourceTree = "<group>"; tabWidth = 2; };
